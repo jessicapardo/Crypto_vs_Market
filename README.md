@@ -4,8 +4,9 @@
 
 ## Deployment Link
 
-The dashboard is deployed in Heroku. To access the page, click the following link to explore the cryptocurrency vs market dashboard.
+The dashboard is deployed in AWS and Heroku. To access the page, click the following links to explore the cryptocurrency vs market dashboard.
 
+* http://cryptocurrencyproject.us-east-2.elasticbeanstalk.com/
 * https://cryptomilk.herokuapp.com/
 
 ## Background 
@@ -27,7 +28,7 @@ There are various types of cryptocurrencies, and for this project, we will focus
 * Creation of the flask app to access the data and create endpoint (API)
 * Exploratory Data Analysis to generate visualizations using D3 and other libraries.
 * Dashboard desing using bootstrap HTML and CSS.
-* Dashboard deployment on Heroku.
+* Dashboard deployment on AWS and Heroku.
 
 ![Methodology](Images/workflow.png)
 
