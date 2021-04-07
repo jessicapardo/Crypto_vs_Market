@@ -1,0 +1,1 @@
+web: gunicorn application:application runserver 0.0.0.0:5000
